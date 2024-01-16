@@ -18,8 +18,10 @@ Usage:
     Run "python main.py"
     Then, it will ask for user input
         Enter a hours to check aplication that have changed their config: 
+
     Enter a hours to check aplication that have changed their config.
-    The result will be displayed
+
+    The result will be displayed.
 
 port.py - It is performing the below operations.
 1. Find the applications that have the same ports and make a report.
